@@ -126,5 +126,28 @@ h2{
 .p-second{
     text-align:center;
     font-size: 18px;
-
 }
+
+.third-section{
+    background-color: #E5E7EB;
+    height:350px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color:#1f2937;
+}
+
+.p-third {
+    font-size:20px;
+    font-weight: bold;
+    margin-left: 680px;
+}
+
+
+
